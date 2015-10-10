@@ -1,0 +1,11 @@
+{
+  "name": "khan_academy_teaching",
+  "version": "1.0.0",
+  "description": "A tool to help organize Khan Academy study group sessions by randomly assigning topics for each person in the group to teach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Atwood",
+  "license": "ISC"
+}
